@@ -139,10 +139,17 @@ Create a function that takes an integer as a parameter and returns true or false
 The function should be called using the values like demonstrated below:
 
 console.log(isPrime(-13)); // false
+
 console.log(isPrime(1)); // false
+
 console.log(isPrime(2)); // true
+
 console.log(isPrime("sixtyfour")); // false
+
 console.log(isPrime(2473)); // true
+
 console.log(isPrime(2475)); // false
+
 console.log(isPrime(3301)); // true
+
 (Hint: DuckDuckGo.com)
