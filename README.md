@@ -79,13 +79,8 @@ Task 3 - Mathematics
 
 In this task, you will write a function that calculates and returns the area of a circle with two decimal points precision. The functions should have a circle radius parameter and return the circle area. The function should check if the function argument is a positive integer. If not,  the function should return undefined.
 
-Circle area is calculated using LaTeX: A=\pi\:\cdot\:r^2
-A
-=
-π
-⋅
-r
-2
+Circle area is calculated using:
+A = π ⋅ r 2
 , where r is the circle radius. 
 
 The function should then called on the values demonstrated below:
@@ -128,16 +123,16 @@ Task 5 - Console Drawing
 In this task, you will use different programming techniques to perform console drawing. Console drawing is the process of creating a drawing in the console by using one (or more) characters (see ASCII art). For example, the following is a drawing of a chessboard:
 
  
-
+```
 #		#		#		#	
-#		#		#		#
+  #		#		#		#
 #		#		#		#	
-#		#		#		#
+  #		#		#		#
 #		#		#		#	
-#		#		#		#
+  #		#		#		#
 #		#		#		#	
-#		#		#		#
- 
+  #		#		#		#
+```
 
 For those who enjoy having a specific goal your task will be to draw a Christmas tree. 
 
@@ -155,11 +150,12 @@ This task is demanding to solve in a way where it looks "good". Do not let that 
 
 WARNING: Simply printing ( Console.log'ing) fixed hard-coded template literals will not be accepted. If you do this you are gambling that the rest of the assignment  is sufficient enough for an approved grade.
 
+```
 `     * 
      *** 
    ***** 
  *******`
-
+```
 
 ______________________________
 
